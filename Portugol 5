@@ -1,0 +1,18 @@
+programa {
+  funcao inicio() {
+    escreva ("informe um numero: ")
+    real numero 
+    leia (numero)
+
+    escreva ("infome um numero: ")
+    real numero2
+    leia (numero2)
+
+    se (numero = numero2)
+    escreva ("numeros iguais ")
+  
+    se (numero != numero2)
+    escreva ("numeros diferentes:")
+  }
+  }
+
